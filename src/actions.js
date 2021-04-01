@@ -1,0 +1,6 @@
+export const SET_LOADING = "SET_LOADING";
+export const SET_STORIES = "SET_STORIES";
+export const HANDLE_PAGE = "HANDLE_PAGE";
+export const HANDLE_SEARCH = "HANDLE_SEARCH";
+export const HANDLE_PAGE_INDEX = "HANDLE_PAGE_INDEX";
+export const SET_SORT_BY_DATE = "SET_SORT_BY_DATE";
