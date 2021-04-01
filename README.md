@@ -8,7 +8,7 @@
 
 Instruction to review the project:
 
-firts rum Npm commands to install depensencies,
+firts rum Npm commands to install dependencies,
 
 npm init
 
