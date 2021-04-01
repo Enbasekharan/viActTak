@@ -4,6 +4,27 @@
 
 <!-- Done by Enbasekharan M -->
 
+
+
+Instruction to review the project:
+
+firts rum Npm commands to install depensencies,
+
+npm init
+
+then 
+
+npm install
+
+then start my project in local host
+
+npm start
+
+
+
+
+Notes:
+
 1. Completely done without any external UI library
 
 2. used custom hook and useContext hook in context.js file to get my state throughout my project
