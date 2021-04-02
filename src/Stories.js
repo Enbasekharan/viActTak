@@ -30,9 +30,11 @@ const Stories = () => {
               <div className="image">
                 <img src={urlToImage} alt={title} className="image" />
               </div>
+
               <p>{source.name}</p>
               <p>{author}</p>
-              <h4 className="title">{title}</h4>
+
+              <h5 className="title">{title}</h5>
               <p>{dateFormat}</p>
 
               <a
